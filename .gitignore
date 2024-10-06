@@ -1,0 +1,6 @@
+#-[ IGNORED AS CONTENTS MUST BE UNIQUE WRT USER MACHINE ]----------------------#
+.vscode/
+
+#-[ IGNORED AS MUST BE BUILT UNIQUE WRT USER MACHINE ]-------------------------#
+build/EisOffsetExtractor.jar
+build/outputs
