@@ -1,4 +1,4 @@
-# EiSpriteViewer
+# EisOffsetExtractor
 
 <img src="build/assets/app_logo.png" width=640px>
 
